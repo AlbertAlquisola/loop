@@ -5,7 +5,7 @@ HomeView = React.createClass({
   render: function() {
     return (
       <div>
-        hello
+        home view
       </div>
     );
   }
